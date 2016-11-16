@@ -1,6 +1,7 @@
 #!/bin/bash
 #Title : wildfly_service.sh
 #Description : The script to configure Wildfly-10.1.* STANDALONE in RHEL 7.*
+#Original script: https://github.com/MiguelPazo/wildfly_service
 
 # Specify the destination location
 INSTALL_DIR=/etc
